@@ -4,7 +4,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello git2");
-
+        System.out.println("hello git3");
     }
 }
 //这里注意一下：IDEA 实现版本切换回看的功能，并不是使用的 reset
