@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("main hot-fix conflict merge");//冲突合并test
         System.out.println("pushtest");
         System.out.println("pulltest");
+        System.out.println("giteetest");
     }
 }
 //这里注意一下：IDEA 实现版本切换回看的功能，并不是使用的 reset
