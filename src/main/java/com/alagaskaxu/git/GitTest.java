@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("hello git4merge");//建议用rebase来合并分支
+        System.out.println("hot-fix merge");
         System.out.println("main hot-fix conflict merge");//冲突合并test
     }
 }
